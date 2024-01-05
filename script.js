@@ -16,7 +16,7 @@ $(document).ready(function () {
     $(".notifications").addClass("displayBlock");
     setTimeout(() => {
       $(".notifications").removeClass("displayBlock");
-    }, 1000);
+    }, 3000);
   });
   //
   // TODO: Add code to apply the past, present, or future class to each time
